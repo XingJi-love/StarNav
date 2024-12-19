@@ -48,5 +48,4 @@ export default defineConfig({
             next: '下一篇'
         }
     },
-
 });
