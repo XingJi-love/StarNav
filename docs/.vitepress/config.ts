@@ -1,7 +1,7 @@
 import {defineConfig} from "vitepress";
 
 export default defineConfig({
-    title: "Star导航",
+    title: "XINGJI导航",
     lang: "zh-CN",
     description: "软件开发导航",
     lastUpdated: true,
@@ -11,11 +11,11 @@ export default defineConfig({
         lineNumbers: true,
     },
     head: [
-        ['link', {rel: 'icon', href: 'https://blog.ahuaaa.cn/img/favicon.ico'}]
+        ['link', {rel: 'icon', href: 'https://i.p-i.vip/47/20241024-67192acae3bb8.png'}]
     ],
     themeConfig: {
         logo: "/logo.png",
-        siteTitle: "Star导航",
+        siteTitle: "XINGJI导航",
         /* 右侧大纲配置 */
         outline: {
             level: "deep",
